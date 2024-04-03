@@ -5,9 +5,7 @@ body{
     color: white;
 }
 
-h1{
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
+
 
 @layer open-props, base, styles;
 
