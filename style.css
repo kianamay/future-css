@@ -1,3 +1,8 @@
+body{
+    margin: 40px;
+}
+
+
 @layer open-props, base, styles;
 
 .card-container {
