@@ -1,6 +1,6 @@
 body{
     margin: 40px;
-    color: cadetblue;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
 
 @layer open-props, base, styles;
