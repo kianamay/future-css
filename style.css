@@ -1,5 +1,6 @@
 body{
     margin: 40px;
+    color: cadetblue;
 }
 
 @layer open-props, base, styles;
